@@ -14,7 +14,7 @@
 <div id="wrapper">
     <section>
 
-        <h2>OUR SOFTWARE</h2>
+        <h2>OUR SOFTWARE 1</h2>
         <div class="team-row">
             <figure>
                 <a href="http://cabinet.futurenpf.ru">
