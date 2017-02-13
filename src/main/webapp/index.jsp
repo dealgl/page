@@ -14,35 +14,35 @@
 <div id="wrapper">
     <section>
 
-        <h2>OUR SOFTWARE 1</h2>
+        <h2>OUR SOFTWARE</h2>
         <div class="team-row">
             <figure>
                 <a href="http://cabinet.futurenpf.ru">
-                <img src="images/sample.png" width="96" height="96" alt="">
+                <img src="images/lka-icon.PNG" width="96" height="96" alt="">
                 </a>
                 <figcaption>LKA<span>dit info</span></figcaption>
             </figure>
             <figure>
                 <a href="http://nbrf.ru">
-                <img src="images/sample.png" width="96" height="96" alt="">
+                <img src="images/lkk-new-icon.PNG" width="96" height="96" alt="">
                 </a>
                 <figcaption>LKK(new)<span>dit info</span></figcaption>
             </figure>
             <figure>
                 <a href="http://client.futurenpf.ru">
-                <img src="images/sample.png" width="96" height="96" alt="">
+                <img src="images/lkk-old-icon.PNG" width="96" height="96" alt="">
                 </a>
                 <figcaption>LKK<span>dit info</span></figcaption>
             </figure>
             <figure>
                 <a href="https://arena.futurenpf.ru/arena">
-                <img src="images/sample.png" width="96" height="96" alt="">
+                <img src="images/arena-icon.PNG" width="96" height="96" alt="">
                 </a>
                 <figcaption>Arena<span>dit info</span></figcaption>
             </figure>
             <figure>
                 <a href="https://segment.futurenpf.ru">
-                <img src="images/sample.png" width="96" height="96" alt="">
+                <img src="images/sed-icon.PNG" width="96" height="96" alt="">
                 </a>
                 <figcaption>Segment<span>dit info</span></figcaption>
             </figure>
@@ -50,15 +50,21 @@
         <div class="team-row">
             <figure>
                 <a href="http://mdev.bops.local:8086/lkk-operator">
-                <img src="images/sample.png" width="96" height="96" alt="">
+                <img src="images/lkk-icon.PNG" width="96" height="96" alt="">
                 </a>
                 <figcaption>Rus-Telecomm<span>dit info</span></figcaption>
             </figure>
             <figure>
                 <a href="http://mdev.bops.local:8086/lkk-operator">
-                    <img src="images/sample.png" width="96" height="96" alt="">
+                    <img src="images/lkk-icon.PNG" width="96" height="96" alt="">
                 </a>
-                <figcaption>Call Center Interface<span>dit info</span></figcaption>
+                <figcaption>Call Center<span>dit info</span></figcaption>
+            </figure>
+            <figure>
+                <a href="http://mdev.bops.local:8086/lkk-operator">
+                    <img src="images/hd-icon.PNG" width="96" height="96" alt="">
+                </a>
+                <figcaption>HelpDesc<span>Русский</span></figcaption>
             </figure>
         </div>
     </section>
